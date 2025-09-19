@@ -38,15 +38,3 @@ Welcome to my GitHub profile! I'm passionate about building impactful software, 
 Thanks for stopping by! ⭐️
 
 ```
-
----
-
-**To make your profile truly outstanding and personal, could you please share:**
-1. **Your profession or current role** (e.g., Student, Software Engineer, Data Scientist, etc.)
-2. **Top skills or technologies** you work with (e.g., JavaScript, Python, React, etc.)
-3. **A short bio or tagline** that represents you.
-4. **Which projects or achievements you want to highlight** (can be specific repositories or accomplishments).
-5. **Any social or portfolio links** you want displayed.
-6. **Fun facts, hobbies, or interests** (optional, for a personal touch).
-
-Once you provide these details, I’ll refine and personalize your README!
